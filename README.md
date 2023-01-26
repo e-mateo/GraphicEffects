@@ -10,6 +10,8 @@ We chose to implement the NPR (Gooch/Toon) and a skybox effect to our world, all
 This project has been made by **RABINNE Lenny** and **ERBISTI Matéo**, students at Isart Digital. <br> 
 It started on `January 2nd` and finished on `January 20th`. <br> 
 
+**The build can be found in the release version (v1.0) of the project** <br>
+
 ### Controls: 
 The default controls are: <br> 
 -WASD to move around <br> 
